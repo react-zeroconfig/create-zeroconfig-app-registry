@@ -1,6 +1,14 @@
 [
   {
+    "repository": "react-zeroconfig/basic-javascript-app",
+    "description": "Basic Javascript (jest, storybook, cypress)"
+  },
+  {
+    "repository": "react-zeroconfig/basic-typescript-app",
+    "description": "Basic Typescript (tslint, jest, storybook, cypress)"
+  },
+  {
     "repository": "iamssen/seed",
-    "description": "full seed typescript"
+    "description": "Seoyeon's Full Spec Seed (loadable-components, react-router, react-intl, tslint, jest, storybook, cypress...)"
   }
 ]
