@@ -1,11 +1,19 @@
 [
   {
     "repository": "react-zeroconfig/basic-javascript-app",
-    "description": "Basic Javascript (jest, storybook, cypress)"
+    "description": "Basic CSR Javascript (jest, storybook, cypress)"
   },
   {
     "repository": "react-zeroconfig/basic-typescript-app",
-    "description": "Basic Typescript (tslint, jest, storybook, cypress)"
+    "description": "Basic CSR Typescript (tslint, jest, storybook, cypress)"
+  },
+  {
+    "repository": "react-zeroconfig/basic-javascript-ssr-app",
+    "description": "Basic SSR Javascript (koa, jest, storybook, cypress)"
+  },
+  {
+    "repository": "react-zeroconfig/basic-typescript-ssr-app",
+    "description": "Basic SSR Typescript (koa, tslint, jest, storybook, cypress)"
   },
   {
     "repository": "iamssen/seed",
