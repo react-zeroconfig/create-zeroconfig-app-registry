@@ -16,6 +16,14 @@
     "description": "Basic SSR Typescript (koa, tslint, jest, storybook, cypress)"
   },
   {
+    "repository": "react-zeroconfig/javascript-playground",
+    "description": "Javascript Playground (jest, storybook)"
+  },
+  {
+    "repository": "react-zeroconfig/typescript-playground",
+    "description": "Typescript Playground (jest, storybook)"
+  },
+  {
     "repository": "iamssen/seed",
     "description": "Seoyeon's Full Spec Seed (loadable-components, react-router, react-intl, tslint, jest, storybook, cypress...)"
   }
