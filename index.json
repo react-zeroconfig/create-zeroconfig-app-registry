@@ -24,6 +24,10 @@
     "description": "Typescript Playground (jest, storybook)"
   },
   {
+    "repository": "react-zeroconfig/didact-playground",
+    "description": "Didact Playground for React research"
+  },
+  {
     "repository": "iamssen/seed",
     "description": "Seoyeon's Full Spec Seed (loadable-components, react-router, react-intl, tslint, jest, storybook, cypress...)"
   }
