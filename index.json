@@ -16,6 +16,14 @@
     "description": "Basic SSR Typescript (koa, jest, storybook, puppeteer)"
   },
   {
+    "repository": "react-zeroconfig/basic-javascript-electron-app",
+    "description": "Basic Electron Javascript (electron, jest, storybook, puppeteer)"
+  },
+  {
+    "repository": "react-zeroconfig/basic-typescript-electron-app",
+    "description": "Basic Electron Typescript (electron, jest, storybook, puppeteer)"
+  },
+  {
     "repository": "react-zeroconfig/javascript-playground",
     "description": "Javascript Playground (jest, storybook)"
   },
